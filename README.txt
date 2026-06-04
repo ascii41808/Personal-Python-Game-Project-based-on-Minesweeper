@@ -1,0 +1,1 @@
+'지뢰찾기'를 기반으로 개인적으로 개발 중인 게임 프로젝트입니다. 당장은 파이썬 기반으로 진행 중입니다. | It's a game project that I'm developing personally based on "Minesweeper". Right now, it's based on Python.
